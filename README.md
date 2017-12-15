@@ -1,4 +1,4 @@
-XcodeFirstTry
-=============
+FeedHedgehog's Blog
 
-在mac上第一次使用Git
+# 随笔
+# c#
